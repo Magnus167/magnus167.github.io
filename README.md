@@ -31,6 +31,9 @@ a simple password generator & manager implemented in Python 3
 
 Project Link : [github.com/Magnus167/passMan](https://github.com/Magnus167/passMan)
 
+## pytrix:
+A repository of code to show examples, or run experiments, or show commonly used "recipes"; mostly in python. Most of my gists are duplicated here as well. 
+
 ## btc-utxos:
 a script to get UTXOs for an address from all BTC forks/chains.
 
