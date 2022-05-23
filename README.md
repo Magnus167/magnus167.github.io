@@ -34,6 +34,8 @@ Project Link : [github.com/Magnus167/passMan](https://github.com/Magnus167/passM
 ## pytrix:
 A repository of code to show examples, or run experiments, or show commonly used "recipes"; mostly in python. Most of my gists are duplicated here as well. 
 
+Project Link : [github.com/Magnus167/pytrix](https://github.com/Magnus167/pytrix) 
+
 ## btc-utxos:
 a script to get UTXOs for an address from all BTC forks/chains.
 
@@ -44,7 +46,7 @@ Project Link : [github.com/Magnus167/btc-utxos](https://github.com/Magnus167/btc
 
 I have several small scripts and Python notebooks full of tricks and experiments in Python. These include simple guides for setting up environments, routines, macros, utilities, and whatnot.
 
-The link to my gists page is https://gist.github.com/Magnus167
+The link to my gists page is [gist.github.com/Magnus167](https://gist.github.com/Magnus167)
 
 
 
