@@ -36,11 +36,6 @@ A repository of code to show examples, or run experiments, or show commonly used
 
 Project Link : [github.com/Magnus167/pytrix](https://github.com/Magnus167/pytrix) 
 
-## btc-utxos:
-a script to get UTXOs for an address from all BTC forks/chains.
-
-Project Link : [github.com/Magnus167/btc-utxos](https://github.com/Magnus167/btc-utxos)
-
 
 ## Github Gists:
 
